@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rzblackwood
 - 👀 I’m interested in ... web development & web design, UX, UI, & web accessibility
 - 🌱 I’m currently learning ... javascript
-- 💞️ I’m looking to collaborate on ... projects that help girls, women, and mothers 
+- 💞️ I’m looking to collaborate on ... projects that help girls, women, mothers, & artists
 - 📫 How to reach me ... 
 
 <!---
